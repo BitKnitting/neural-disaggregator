@@ -1,0 +1,10 @@
+*.pyc
+*.png
+printout*.py
+*.h5
+Junk
+/LookbackGRU/dataset/
+.idea
+ukdale.h5.zip
+ukdale.h5
+.vscode/
